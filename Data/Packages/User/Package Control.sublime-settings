@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"Package Control",
+		"SFTP",
+		"Tagify"
+	]
+}
